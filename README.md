@@ -15,5 +15,5 @@
   
   - *Next manajemen keuangan desa
   
-  #NOTE
+  # NOTE
   Jika ingin reshar mohon cantumkan author
